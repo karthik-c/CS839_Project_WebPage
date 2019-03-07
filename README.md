@@ -1,1 +1,1 @@
-# CS839_Project_WebPage
+# CS839 Project WebPage
