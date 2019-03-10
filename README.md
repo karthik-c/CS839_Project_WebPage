@@ -1,2 +1,2 @@
 # CS839 Project WebPage
-Welcome to the Project web page for CS839 (Data Science: Principles, Algorithms, and Applications)
+Welcome to Project CS839 (Data Science) web page
