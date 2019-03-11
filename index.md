@@ -14,5 +14,5 @@ title: CS839 Project Page
 * [Set I (dev set)](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/SetI_Dev_Set)
 * [Set J (test set)](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/SetJ_Test_Set)
 * [Source Code](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/Source_Code)
-* Compressed File
+* [Compressed File](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage1/stage1_compressed.tar.gz)
 * [Stage 1 PDF Document](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage1/Stage_PDF.pdf)

@@ -1,0 +1,5 @@
+Entity Type that we have marked up: Person Names
+
+We have tagged the person names entities using three different tags <name>[data]</name>, <fname>[data]</fname>, <lname>[data]</lname>
+
+All three are considered names. We just tagged them explicitly for ease of parsing and to collect more metadata.
