@@ -19,9 +19,9 @@ title: CS839 Project Page
 
 ### Stage 2:  Crawling and extracting structured data from Web pages
 * Dataset (7355 movies from IMDB and 3066 movies from Rotten Tomatoes)
-  * [Dataset](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage2/DATA)
+  * [Data directory](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage2/DATA)
     * [Table A (imdb)](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/DATA/table_a.csv)
-    * [Table B (rottentomates](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/DATA/table_b.csv)
+    * [Table B (rottentomates)](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/DATA/table_b.csv)
 * [Source Code](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage2/CODE)
     * [Scraping script (imdb)](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/CODE/scrape_imdb.py)
     * [Scraping script (rottentomates)](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/CODE/scrape_rotten_tomatoes.py)
