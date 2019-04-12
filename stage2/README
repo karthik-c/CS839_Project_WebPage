@@ -1,0 +1,33 @@
+Entities that we are working with: Movies
+
+1. Table A:
+- Filename: table_a.csv
+- Content: Movies scraped from imdb.com
+- Format: csv
+- Header: (Included)
+- Entities (in order):
+    - Movie Title
+    - Year the movie was released
+    - Director of said movie
+    - Total runtime
+    - Genre
+    - Rating (IMDB on a scale of 10)
+    - Description
+    - Certificate (PG13, R, etc)
+- Number of tuples: 7354
+
+1. Table B:
+- Filename: table_b.csv
+- Content: Movies scraped from rottentomatoes.com
+- Format: csv
+- Header: (Included)
+- Entities (in order):
+    - Movie Title
+    - Year the movie was released
+    - Director of said movie
+    - Total runtime
+    - Genre
+    - Rating (Tomatometer in percentage out of 100)
+    - Description
+    - Certificate (PG13, R, etc)
+- Numebr of tuples: 3065

@@ -16,3 +16,13 @@ title: CS839 Project Page
 * [Source Code](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/Source_Code)
 * [Compressed File](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage1/stage1_compressed.tar.gz)
 * [Stage 1 PDF Document](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage1/Stage_PDF.pdf)
+
+### Stage 2:  Crawling and extracting structured data from Web pages
+* Dataset (7355 movies from IMDB and 3066 movies from Rotten Tomatoes)
+  * [Original Dataset (Untagged)](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/Original_Dataset)
+  * [Tagged Dataset](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/Tagged_Dataset)
+* [Set I (dev set)](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/SetI_Dev_Set)
+* [Set J (test set)](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/SetJ_Test_Set)
+* [Source Code](https://github.com/karthik-c/CS839_Project_WebPage/tree/master/stage1/Source_Code)
+* [Compressed File](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage1/stage1_compressed.tar.gz)
+* [Stage 1 PDF Document](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage1/Stage_PDF.pdf)
