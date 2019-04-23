@@ -31,13 +31,16 @@ title: CS839 Project Page
 ### Stage 3:  Matching tables using CloudMatcher
 * Matching Fodors and Zagats
   * user ID: group_21
-  * project name: trail_restaurants
+  * project NAME: trail_restaurants
+  * project ID: 3
   * results: [screenshot](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Fodors%20and%20Zagats.png)
 * Blocking Results
   * user ID: group_21
-  * project name: stage3
+  * project NAME: stage3
+  * project ID: 4
   * results: [screenshot](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Blocking%20results.png)
 * Matching Results
   * user ID: group_21
-  * project name: stage3
+  * project NAME: stage3
+  * project ID: 4
   * results: [screenshot1](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%201.png), [screenshot2](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%202.png), [screenshot3](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%203.png), [screenshot4](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%204.png), [screenshot5](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%205.png), [screenshot6](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%206.png), 
