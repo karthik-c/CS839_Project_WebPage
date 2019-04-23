@@ -27,3 +27,9 @@ title: CS839 Project Page
     * [Scraping script (rottentomates)](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/CODE/scrape_rotten_tomatoes.py)
     * [Data exploration notebook](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/CODE/explore_data.ipynb)
 * [Stage 2 Report](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage2/stage_2_report.pdf)
+
+### Stage 3:  Matching tables using CloudMatcher
+* Matching Fodors and Zagats
+  * user ID: group_21
+  * project name: trail_restaurants
+  * results: [screenshot](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Fodors%20and%20Zagats.png)
