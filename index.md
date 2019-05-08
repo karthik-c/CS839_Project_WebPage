@@ -45,11 +45,11 @@ title: CS839 Project Page
   * project ID: 4
   * results: [screenshot1](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%201.png), [screenshot2](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%202.png), [screenshot3](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%203.png), [screenshot4](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%204.png), [screenshot5](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%205.png), [screenshot6](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Matching%20Results%206.png),
 * Estimating Accuracy
-  * [Prediction list] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/prediction_set)
-  * [Candidate set] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/candidate_set)
-  * [Table A] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/table_a)
-  * [Table B] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/table_b)
-  * [Report PDF] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Stage3_Report.pdf)
-  * [Code] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/estimating_precision_recall.ipynb)
-  * [Initial 50 labeled sample set] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/sample1_labeled)
-  * [Final 400 labeled candidate set] (https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/final_labeled)
+  * [Prediction list](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/prediction_set)
+  * [Candidate set](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/candidate_set)
+  * [Table A](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/table_a)
+  * [Table B](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/table_b)
+  * [Report PDF](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/Stage3_Report.pdf)
+  * [Code](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/estimating_precision_recall.ipynb)
+  * [Initial 50 labeled sample set](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/sample1_labeled)
+  * [Final 400 labeled candidate set](https://github.com/karthik-c/CS839_Project_WebPage/blob/master/stage3/final_labeled)
