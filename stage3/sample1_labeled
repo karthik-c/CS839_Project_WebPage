@@ -1,51 +1,51 @@
 A_id,movie_name_x,B_id,movie_name_y,label
-1263,Scream 3,688,Scream,1
-1745,Away We Go,1720,Juno,0
-6635,American Splendor,1319,American Splendor,1
-563,Planet of the Apes,2431,Dawn Of The Planet Of The Apes,0
-6951,Pat Garrett & Billy the Kid,118,The Wild Bunch,0
-3595,The Last Waltz,370,The Last Temptation of Christ,0
-6060,The Host,1743,The Host,1
-1962,48 Hrs.,250,48 HRS,1
-2879,The King of Comedy,522,The Age of Innocence,0
-2661,Survival of the Dead,209,Dawn of the Dead,0
-6052,The Girl with the Dragon Tattoo,2163,The Girl with the Dragon Tattoo,1
-1326,The Orphanage,1769,The Orphanage,1
-2308,Scoop,965,Sweet and Lowdown,0
-1214,The Road Warrior,248,Mad Max 2: The Road Warrior,1
-433,Collateral,1449,Collateral,1
-1639,Dinosaur,1092,Dinosaur,1
-223,Toy Story 2,592,Toy Story,0
-1259,The 13th Warrior,76,Jason and the Argonauts,0
-51,How to Train Your Dragon,2922,How to Train Your Dragon: The Hidden World,0
-2129,The Believer,2190,The Hedgehog,0
-1831,Escape from L.A.,719,John Carpenter's Escape from L.A.,1
-405,The Lost World: Jurassic Park,793,The Lost World - Jurassic Park,1
-5809,The Princess and the Frog,1966,The Princess and the Frog,1
-2055,The Omen,185,The Omen,1
-2036,After the Sunset,877,Rush Hour,0
-1363,Celebrity Sex Tape,912,Celebrity,0
-1025,The Warriors,1941,Mary and Max,0
-1212,Mad Max,304,Mad Max Beyond Thunderdome,0
-866,The Haunting,715,Twister,0
-3886,The Trip to Bountiful,1599,The Chronicles of Narnia: The Lion The Witch and The Wardrobe,0
-1381,Fish Tank,2042,Fish Tank,1
-674,Mulholland Dr.,1161,Mulholland Drive,1
-6609,Heavenly Creatures,2916,They Shall Not Grow Old,0
-1244,Outbreak,507,In the Line of Fire,0
-1106,Georgia Rule,427,Pretty Woman,0
-1048,Desperado,1308,Igby Goes Down,0
-5790,Interview with the Vampire: The Vampire Chronicles,578,Interview with the Vampire,1
-1952,The Last Temptation of Christ,218,Raging Bull,0
-1048,Desperado,634,Desperado,1
-3256,The Texas Chainsaw Massacre 2,165,The Texas Chainsaw Massacre,1
-206,Ghostbusters,277,Ghostbusters (1984 Original),0
-1037,Lethal Weapon 2,340,Lethal Weapon,0
-7271,Ben-Hur,49,Ben-Hur,1
-743,Over the Hedge,1709,Over the Hedge,1
-118,Oz the Great and Powerful,2885,Ralph Breaks the Internet,0
-4529,Demon Seed,2703,Demon,0
-198,Raiders of the Lost Ark,2839,The Post,0
-861,The Parent Trap,833,The Parent Trap,1
-5987,Star Trek IV: The Voyage Home,320,Star Trek IV - The Voyage Home,1
-1510,The Secret Life of Bees,1436,Vera Drake,0
+1263,Scream 3,688,Scream,True
+1745,Away We Go,1720,Juno,False
+6635,American Splendor,1319,American Splendor,True
+563,Planet of the Apes,2431,Dawn Of The Planet Of The Apes,False
+6951,Pat Garrett & Billy the Kid,118,The Wild Bunch,False
+3595,The Last Waltz,370,The Last Temptation of Christ,False
+6060,The Host,1743,The Host,True
+1962,48 Hrs.,250,48 HRS,True
+2879,The King of Comedy,522,The Age of Innocence,False
+2661,Survival of the Dead,209,Dawn of the Dead,False
+6052,The Girl with the Dragon Tattoo,2163,The Girl with the Dragon Tattoo,True
+1326,The Orphanage,1769,The Orphanage,True
+2308,Scoop,965,Sweet and Lowdown,False
+1214,The Road Warrior,248,Mad Max 2: The Road Warrior,True
+433,Collateral,1449,Collateral,True
+1639,Dinosaur,1092,Dinosaur,True
+223,Toy Story 2,592,Toy Story,False
+1259,The 13th Warrior,76,Jason and the Argonauts,False
+51,How to Train Your Dragon,2922,How to Train Your Dragon: The Hidden World,False
+2129,The Believer,2190,The Hedgehog,False
+1831,Escape from L.A.,719,John Carpenter's Escape from L.A.,True
+405,The Lost World: Jurassic Park,793,The Lost World - Jurassic Park,True
+5809,The Princess and the Frog,1966,The Princess and the Frog,True
+2055,The Omen,185,The Omen,True
+2036,After the Sunset,877,Rush Hour,False
+1363,Celebrity Sex Tape,912,Celebrity,False
+1025,The Warriors,1941,Mary and Max,False
+1212,Mad Max,304,Mad Max Beyond Thunderdome,False
+866,The Haunting,715,Twister,False
+3886,The Trip to Bountiful,1599,The Chronicles of Narnia: The Lion The Witch and The Wardrobe,False
+1381,Fish Tank,2042,Fish Tank,True
+674,Mulholland Dr.,1161,Mulholland Drive,True
+6609,Heavenly Creatures,2916,They Shall Not Grow Old,False
+1244,Outbreak,507,In the Line of Fire,False
+1106,Georgia Rule,427,Pretty Woman,False
+1048,Desperado,1308,Igby Goes Down,False
+5790,Interview with the Vampire: The Vampire Chronicles,578,Interview with the Vampire,True
+1952,The Last Temptation of Christ,218,Raging Bull,False
+1048,Desperado,634,Desperado,True
+3256,The Texas Chainsaw Massacre 2,165,The Texas Chainsaw Massacre,True
+206,Ghostbusters,277,Ghostbusters (1984 Original),False
+1037,Lethal Weapon 2,340,Lethal Weapon,False
+7271,Ben-Hur,49,Ben-Hur,True
+743,Over the Hedge,1709,Over the Hedge,True
+118,Oz the Great and Powerful,2885,Ralph Breaks the Internet,False
+4529,Demon Seed,2703,Demon,False
+198,Raiders of the Lost Ark,2839,The Post,False
+861,The Parent Trap,833,The Parent Trap,True
+5987,Star Trek IV: The Voyage Home,320,Star Trek IV - The Voyage Home,True
+1510,The Secret Life of Bees,1436,Vera Drake,False
